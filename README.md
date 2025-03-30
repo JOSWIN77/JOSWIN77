@@ -1,5 +1,4 @@
-# Holaa <a href="https://www.linkedin.com/in/joswin-joshy/">Joswin here....!</a>
-<a href="https://www.animatedimages.org/cat-pokemon-1446.htm"><img src="https://www.animatedimages.org/data/media/1446/animated-pokemon-image-0027.gif" alt="animated-pokemon-image-0027" width="50" height="50" /></a> 
+# Holaa <a href="https://www.linkedin.com/in/joswin-joshy/">Joswin here....!</a><a href="https://www.animatedimages.org/cat-pokemon-1446.htm"><img src="https://www.animatedimages.org/data/media/1446/animated-pokemon-image-0027.gif" alt="animated-pokemon-image-0027" width="50" height="50" /></a> 
 
 
 I'm a **Computer Science Engineering student** and a passionate developer who loves exploring new coding languages and tackling real-world problems through code. I enjoy building efficient applications and working with data to derive insights and create solutions.
