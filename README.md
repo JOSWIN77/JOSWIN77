@@ -1,4 +1,4 @@
-#Hola <img src="[https://i.imgur.com/0Ce902y.gif](https://tenor.com/view/halloween-cat-pumpkin-trick-or-treat-gif-15633647130393623908)" width="50" height="50" /> <a href="https://www.linkedin.com/in/edwingeorgeshaji/">JOSWIN HERE...</a>
+#Hola<a href="https://www.linkedin.com/in/edwingeorgeshaji/">JOSWIN HERE...</a> <img src=" <img src="[https://i.imgur.com/0Ce902y.gif](https://tenor.com/view/halloween-cat-pumpkin-trick-or-treat-gif-15633647130393623908)" width="50" height="50" /> " width="50" height="50" /> 
 
 
 I'm a **Computer Science Engineering student** and a passionate developer who loves exploring new coding languages and tackling real-world problems through code. I enjoy building efficient applications and working with data to derive insights and create solutions.
