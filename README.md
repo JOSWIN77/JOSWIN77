@@ -1,4 +1,4 @@
-#Hola<a href="https://www.linkedin.com/in/edwingeorgeshaji/">JOSWIN HERE...</a> <img src=" <img src="[https://i.imgur.com/0Ce902y.gif](https://tenor.com/view/halloween-cat-pumpkin-trick-or-treat-gif-15633647130393623908)" width="50" height="50" /> " width="50" height="50" /> 
+# Yoo... <img src="https://tenor.com/view/shrimp-working-krill-cursed-edit-gif-4233398845107206413" width="50" height="50" /> The name is <a href="https://www.linkedin.com/in/edwingeorgeshaji/">Edwin!</a>
 
 
 I'm a **Computer Science Engineering student** and a passionate developer who loves exploring new coding languages and tackling real-world problems through code. I enjoy building efficient applications and working with data to derive insights and create solutions.
