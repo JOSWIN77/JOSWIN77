@@ -10,7 +10,7 @@ Hi there! I'm  <a href="https://www.linkedin.com/in/joswin-joshy/">JOSWIN JOSHY<
 
 ## 📊 My Contribution Graph
 
-![Layel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LAYELKMANOJ&theme=merko&height=300)
+![<b>GIT HUB ACTIVITY GRAPH</b>](https://github-readme-activity-graph.vercel.app/graph?username=JOSWIN77&theme=merko&height=300)
 
   
 ---
@@ -42,13 +42,13 @@ Hi there! I'm  <a href="https://www.linkedin.com/in/joswin-joshy/">JOSWIN JOSHY<
 
 ## 🎨 Featured Projects
 
-### 🎮 [Game Development Project](https://github.com/LAYELKMANOJ)
+### 🎮 [Game Development Project](https://github.com/JOSWIN77)
 A fun and engaging game built using **Python** and **Pygame**, showcasing my love for creating interactive experiences. 
 
-### 🔒 [Cybersecurity Toolkit](https://github.com/LAYELKMANOJ)
+### 🔒 [Cybersecurity Toolkit](https://github.com/JOSWIN77)
 A comprehensive collection of tools and scripts aimed at enhancing cybersecurity practices and learning.
 
-### 🎨 [UI/UX Portfolio](https://github.com/LAYELKMANOJ)
+### 🎨 [UI/UX Portfolio](https://github.com/JOSWIN77)
 A showcase of **UI/UX Design** projects, demonstrating my ability to design intuitive and user-friendly interfaces.Web designs is also my cup of coffee.
 
 ### 📁 [Data Science](https://github.com/LAYELKMANOJ/Data-Science)
@@ -57,7 +57,7 @@ A showcase of **UI/UX Design** projects, demonstrating my ability to design intu
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LAYELKMANOJ&show_icons=true&theme=merko)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JOSWIN77&show_icons=true&theme=merko)
 
 
 
@@ -66,7 +66,7 @@ A showcase of **UI/UX Design** projects, demonstrating my ability to design intu
 
 ## 🌏 Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LAYELKMANOJ&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOSWIN77&layout=compact&theme=merko)
 
 
 ---
@@ -76,11 +76,11 @@ A showcase of **UI/UX Design** projects, demonstrating my ability to design intu
 
 <div align="CENTER">
  
- ![GitHub Streak](https://streak-stats.demolab.com/?user=LAYELKMANOJ&theme=merko)
+ ![<center>STREAKZ</center>](https://streak-stats.demolab.com/?user=JOSWIN77&theme=merko)
  
 </div>
 
-## 🌟 Fun Facts About Me
+## 🌟ABOUT :
 
 - 🔒 Cybersecurity enthusiast who loves problem-solving and exploring vulnerabilities.  
 - 🎮 Game developer bringing ideas to life through interactive code.  
@@ -97,10 +97,10 @@ A showcase of **UI/UX Design** projects, demonstrating my ability to design intu
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/layelkmanoj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/layel_k_manoj) [![Linktree](https://img.shields.io/badge/Linktree-%2300FF00?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/layelkmanoj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joswin-joshy/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jossswwwwiiii) [![Linktree](https://img.shields.io/badge/Linktree-%2300FF00?style=for-the-badge&logo=linktree&logoColor=white)(https://www.linkedin.com/in/joswin-joshy)
 
 
-   <p align="center"> <img src="https://komarev.com/ghpvc/?username=LAYELKMANOJ&label=Profile%20views&color=ff1919&style=flat" alt="LAYEL K MANOJ" /> </p>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=JOSWIN77&label=Profile%20views&color=ff1919&style=flat" alt="JOSWIN77" /> </p>
 
 
 ![210012254-234538ff-d198-48aa-8964-37e6fd45d227](https://github.com/user-attachments/assets/47049dc4-a1e7-4da7-84ac-24cb03e0df7d)
