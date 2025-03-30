@@ -1,41 +1,99 @@
-<!-- Stats -->
+# Yoo... <img src="https://i.imgur.com/0Ce902y.gif" width="50" height="50" /> The name is <a href="https://www.linkedin.com/in/edwingeorgeshaji/">Edwin!</a>
+
+
+I'm a **Computer Science Engineering student** and a passionate developer who loves exploring new coding languages and tackling real-world problems through code. I enjoy building efficient applications and working with data to derive insights and create solutions.
+
+
+## 📊 My Contribution Graph
+[![Edwin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edwingeorgeshaji&theme=tokyo-night)](https://github.com/edwingeorgeshaji)
+
+
+
+## 🛠️ Languages & Skills
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=technologyhell&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=technologyhell&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+ 
+ <a href="https://www.python.org" style="display:inline-block;"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/><a href="https://isocpp.org/" style="text-decoration: none;"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/><a href="https://www.linux.org" style="display:inline-block;"><img align="center" src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/><a href="https://www.android.com" style="display:inline-block;"><img align="center" src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" width="40" height="40"/><a href="https://www.microsoft.com/en-in/windows?r=1" style="display:inline-block;"><img align="center" src="https://img.icons8.com/color/48/000000/windows-11.png" alt="Windows" width="40" height="40"/>
+
+
+
+
 </div>
 
 
-<!-- Tech Stack -->
+
+
+## 🌱 What I'm Currently Learning
+I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
+- Advanced data science techniques
+- Backend frameworks for web development
+- New programming languages to diversify my skill set
+
+## 💡 What I Enjoy
+- **Building Applications:** I love creating efficient, user-centered applications that solve real problems.
+- **Working with Data:** From data cleaning to in-depth analysis, I’m driven by the insights that data can bring.
+
+## 🐍 My GitHub Streak
 <div align="center">
+ 
+ ![GitHub Streak](https://streak-stats.demolab.com/?user=edwingeorgeshaji&theme=tokyonight)
+ 
+</div>
+
+
+## 🎯 Top Picks
+ ### [🗓️ Guido Task Reminder App](https://github.com/edwingeorgeshaji/Firstman)
+ A simple and efficient task reminder app to help manage daily to-dos, built with Python for seamless functionality.
+ 
+ ### [🐷 Technoblade Trivia Quiz](https://github.com/edwingeorgeshaji/TECHNOBLADE)
+ A fun and engaging trivia quiz built to honor Technoblade, featuring questions about his achievements, gameplay, and legacy.
+
+
+
+## 📈 GitHub Stats
+<div align="center">
+ 
+ ![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwingeorgeshaji&show_icons=true&theme=tokyonight)
+ 
+</div>
+
+ ## 🫱🏼‍🫲🏼 Let's Connect!
+
+
+<div align="center">
+ 
+![bg](https://github.com/user-attachments/assets/ec657fb6-6c35-49e4-b1fd-0e9be5c474ae)
+
+</div>
+
+
+
+ 
+<div align="center">
+ <a href="https://linktr.ee/edwingeorge_007" style="text-decoration: none;"><img width="38" height="38" src="https://img.icons8.com/pulsar-gradient/48/linktree.png" alt="linktree"/></a>
+ <a href="https://www.linkedin.com/in/edwingeorgeshaji" style="text-decoration: none;">
+  <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a> <a href="https://www.instagram.com/edwin_george_shaji" style="text-decoration: none;"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=edwingeorgeshajipadiyanickal@gmail.com" style="text-decoration: none;"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="40" height="40"/></a>
+
+</div>
+
+
+Feel free to reach out, whether it’s for collaboration, brainstorming, or just a chat about the latest in tech!
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=edwingeorgeshaji&label=Profile%20views&color=ff1919&style=flat" alt="Edwin George Shaji" /> </p>
+<p align="center"> <img src="https://i.imgur.com/Nm9V1ym.gif" width="104" height="39" />
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0170.gif" height="1px" width="1920"/>
+
+
+ <div align='center'>
   
-## 💻 Tech Stack ⚡
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
-</div>
-
-
-
-<!-- Social connections -->
-<div align="center">
-
-## 🌐 Connect with Me 🍬
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/technologyhell) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/6ME9TDt) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/technologyhell) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/technologyhell) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitishsinghslg) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/technologyhell) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/technologyhell) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@technologyhell) 
-
-</div>
-
-
-
-<!-- Snake Animation -->
-<div align="center">
-    
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
-</div>
-
-
-
-<!-- Visit Counter -->
-<div align="center">
+  Bulit by,<strong> [R.E.C](https://github.com/edwingeorgeshaji) </strong>  <i>(ifykyk).</i>
+ </div>
   
-  [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
+
+<div align="center">
+ 
+ <em>"Code is like humor. When you have to explain it, it’s bad." — Cory House</em></div>
+  
 </div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0170.gif" height="1px" width="1920"/>
